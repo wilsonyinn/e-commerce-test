@@ -1,3 +1,6 @@
+# Description 
+E-commerce with item pages, inventory list, shopping cart checkout, and sign in page built with tailwind css
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
